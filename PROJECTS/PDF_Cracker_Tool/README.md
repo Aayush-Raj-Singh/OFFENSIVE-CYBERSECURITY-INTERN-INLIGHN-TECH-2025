@@ -73,4 +73,4 @@ pip install -r requirements.txt
 ---
 
 ## 🛡️ Developed by:
-**Aayush-Raj_Singh under InLighn Tech - Cybersecurity Training**
+**Aayush-Raj-Singh under InLighn Tech - Cybersecurity Training**
