@@ -144,12 +144,6 @@ Each project contains:
 ```
 Offensive-Cybersecurity-Intern/
 │
-├── Python-Basics/
-├── Data-Structures-and-File-Handling/
-├── Object-Oriented-Programming/
-├── Networking-and-Cybersecurity/
-├── Protocols/
-├── Research-Paper/
 ├── Projects/
 │   ├── Subdomain-Enumeration-Tool/
 │   ├── PDF-Protection-Tool/
@@ -162,7 +156,9 @@ Offensive-Cybersecurity-Intern/
 │   ├── Reverse-Shell-Backdoor/
 │   ├── Information-Stealer/
 │   └── SSH-Botnet/
-├── Project-Prerequisites/
+├── Offer-Letter/
+├── README/
+└── Research-Paper/
 ```
 
 ---
