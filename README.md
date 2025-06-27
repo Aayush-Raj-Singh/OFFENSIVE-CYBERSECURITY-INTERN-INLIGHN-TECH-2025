@@ -5,7 +5,7 @@ This repository contains my learning journey, practical projects, and research c
 ---
 
 ## ✅ Progress
-**Modules:** 147   
+**Modules:** 148   
 **Internship Provider:** InLighn Tech
 
 ---
